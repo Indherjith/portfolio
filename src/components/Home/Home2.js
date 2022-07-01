@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I am Currently Pursuing MERN Stack WEB DEVELOPMENT in Masai School.
               <br />
-              <br />I have Good Knowledge in 
+              <br />I have Good Knowledge of 
               <i>
                 <b className="purple"> Html, Javascript and CSS. </b>
               </i>
@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I'm apply myself to develope a small Web Application Projects <b className="purple">Reactjs</b> 
+              Whenever possible, I apply myself to develope a small Web Application Projects <b className="purple">Reactjs</b> 
               <i>
                 <b className="purple">
                   {" "}
