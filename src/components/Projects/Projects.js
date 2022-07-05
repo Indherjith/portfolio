@@ -2,8 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
 import kfcI from "../../Assets/Projects/kfcI.png";
 import kfcII from "../../Assets/Projects/kfcII.jpg";
 import buywow from "../../Assets/Projects/buywow.png";

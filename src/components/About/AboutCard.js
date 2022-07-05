@@ -24,6 +24,9 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Reading Docx
             </li>
+            <li className="about-activity">
+              <ImPointRight /> Bike Ride in Hill Stations
+            </li>
           </ul>
           <p>Coding is a mistery, Who handle that in efficient way it make some magic.</p>
           <span>-Buvaneswaran S</span>
